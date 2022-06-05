@@ -1,2 +1,2 @@
 # e_Wallet
-Acc Bootcamp 
+Acc Bootcamp Capstone project
